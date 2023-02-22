@@ -1,5 +1,7 @@
 # github-rdp
 
+https://docs.google.com/document/u/0/d/1FfdQOtPzgJin_WrnDePe0YadoXSwoz7wUGaAFrFkjpA/mobilebasic
+
 
 
 name: CI
